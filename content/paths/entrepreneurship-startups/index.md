@@ -19,7 +19,7 @@ A startup's life runs in stages: an idea, a first version built by a handful of 
 
 {{< people >}}
 {{< person name="Kathryn Mecrow-Flynn" img="stories-kathryn-mecrow-flynn.jpg" role="CEO and President, Magnify Mentoring" sub="Built and runs a mentoring organisation" link="https://www.linkedin.com/in/kathryn-mecrow-flynn-5061aa6b/" >}}
-{{< person name="Konrad Urban" img="team-konrad-urban.jpg" role="Co-founder, Let's Phi & Prophet" sub="Founder with a philosophy background" link="https://www.linkedin.com/in/konrad-urban/" >}}
+{{< person name="Konrad Urban" img="team-konrad-urban.jpg" role="Co-founder, Let's Phi; runs Peanut" sub="Founder with a philosophy background" link="https://www.linkedin.com/in/konrad-urban/" >}}
 {{< /people >}}
 
 - **Christina Norgard Rud** — co-founded [Squid](https://www.squidrouter.com/), a cross-chain liquidity startup; at our May 2023 workshop she talked about co-founding, fundraising and working in a fast-moving space

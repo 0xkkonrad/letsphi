@@ -13,7 +13,7 @@ Let's Phi helps philosophers build careers outside academia. Since summer 2020 w
 Let's Phi was built by a volunteer team of philosophers who care about what comes after the degree. Today it is maintained by Konrad — and it keeps growing, story by story.
 
 {{< people >}}
-{{< person name="Konrad Urban" img="team-konrad-urban.jpg" role="Co-Founder & Maintainer" sub="Co-founder @ [Prophet](https://prophet.money/)" link="https://www.linkedin.com/in/konrad-urban/" >}}
+{{< person name="Konrad Urban" img="team-konrad-urban.jpg" role="Co-Founder & Maintainer" sub="Runs [Peanut](https://peanut.me/)" link="https://www.linkedin.com/in/konrad-urban/" >}}
 {{< /people >}}
 
 ### Alumni
