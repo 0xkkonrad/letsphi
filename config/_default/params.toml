@@ -10,6 +10,8 @@ enableCodeCopy = false
 
 disableImageOptimization = false
 
+mainSections = ["posts"]
+
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
@@ -23,8 +25,11 @@ disableImageOptimization = false
 [homepage]
   layout = "page" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/hero-wave.png" # used by hero/card layouts if you switch
-  showRecent = false
-  showMoreLink = false
+  showRecent = true
+  showRecentItems = 3
+  showMoreLink = true
+  showMoreLinkDest = "/posts/"
+  cardView = true
   disableHeroImageFilter = true # image is already a brand gradient
 
 [article]
@@ -42,7 +47,7 @@ disableImageOptimization = false
 
 [list]
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = true
   showViews = false
   showLikes = false
-  groupByYear = false
+  groupByYear = true
