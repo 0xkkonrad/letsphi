@@ -28,5 +28,6 @@ Let's Phi exists to change that. We help you leverage your philosophy skills for
 - **[Chapters]({{< ref "local" >}})** — Let's Phi on your campus
 - **[Opportunities]({{< ref "opportunities" >}})** — roles where philosophers are a good fit
 - **[Team]({{< ref "team" >}})** — the people behind Let's Phi
+- **[Newsletter](https://letsphi.substack.com/)** — career workshops, advice and support, straight to your inbox
 
 {{< button href="/stories/" >}}Read the stories{{< /button >}}

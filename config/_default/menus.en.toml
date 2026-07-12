@@ -31,6 +31,13 @@
   pageRef = "team"
   weight = 60
 
+[[main]]
+  name = "Newsletter"
+  url = "https://letsphi.substack.com/"
+  weight = 70
+  [main.params]
+    icon = "substack"
+
 # -- Footer Menu --
 [[footer]]
   name = "Stories"
@@ -46,3 +53,8 @@
   name = "Team"
   pageRef = "team"
   weight = 30
+
+[[footer]]
+  name = "Newsletter"
+  url = "https://letsphi.substack.com/"
+  weight = 40
