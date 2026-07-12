@@ -4,7 +4,7 @@ description: "Philosophers who built careers outside academia — in ethics cons
 ---
 
 {{< lead >}}
-The people behind these faces spoke at Let's Phi events about the careers they built outside academia. Below is what we know about each journey, with links to go deeper.
+People from the Let's Phi community: most spoke at our events about the careers they built outside academia, and two ran our St Andrews chapter. Below is what we know about each journey, with links to go deeper.
 {{< /lead >}}
 
 {{< people >}}
@@ -13,6 +13,8 @@ The people behind these faces spoke at Let's Phi events about the careers they b
 {{< person name="Christine Jakobson" img="stories-christine-jakobson.jpg" role="Associate Principal, Principia Advisory" sub="PhD in Philosophy, University of Cambridge (2021)" link="https://www.linkedin.com/in/christine-jakobson/" >}}
 {{< person name="Jim Baxter" img="stories-jim-baxter.jpg" role="Professional Ethics Consultancy Team Leader, IDEA Centre, University of Leeds" sub="PhD in Philosophy, University of Leeds (2017)" link="https://www.linkedin.com/in/jimbaxtersheffieldleeds/" >}}
 {{< person name="Kathryn Mecrow-Flynn" img="stories-kathryn-mecrow-flynn.jpg" role="CEO and President, Magnify Mentoring" sub="Bachelor of Law, SOAS University of London" link="https://www.linkedin.com/in/kathryn-mecrow-flynn-5061aa6b/" >}}
+{{< person name="Mariana Razina" img="stories-mariana-razina.png" role="Freelance Marketer" sub="Co-founded the Let's Phi St Andrews chapter" link="https://www.linkedin.com/in/mariana-razina" >}}
+{{< person name="Yangtian Xu" img="stories-yangtian-xu.png" role="Summer Analyst, Bank of America" sub="Co-founded the Let's Phi St Andrews chapter" link="https://www.linkedin.com/in/yangtianx" >}}
 {{< /people >}}
 
 ### McKenna Fitzgerald
@@ -34,6 +36,14 @@ Jim did his philosophy PhD at Leeds and stayed, but on the consulting side: he l
 ### Kathryn Mecrow-Flynn
 
 Kathryn built Magnify Mentoring and leads it as CEO and President. She came to us in July 2021 to talk about high-impact mentoring. Her story spans two guides: [Business, Mentoring & Beyond]({{< ref "paths/business-mentoring" >}}) for the mentoring work itself, and [Entrepreneurship & Startups]({{< ref "paths/entrepreneurship-startups" >}}) for what it takes to build the organisation.
+
+### Mariana Razina
+
+Mariana co-founded our St Andrews chapter, which brought talks, workshops and networking sessions to philosophy students on campus. She now works as a freelance marketer.
+
+### Yangtian Xu
+
+Yangtian co-founded the St Andrews chapter alongside Mariana. He is now a summer analyst at Bank of America.
 
 ## More journeys from the library
 

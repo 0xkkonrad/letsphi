@@ -51,7 +51,7 @@ Let's Phi exists to change that. We help you leverage your philosophy skills for
 - **[Opportunities]({{< ref "opportunities" >}})** — current roles where philosophers are a good fit
 - **[Articles]({{< ref "posts" >}})** — essays, interviews and resource round-ups from the newsletter
 - **[Events]({{< ref "events" >}})** — the archive of our conferences, workshops and talks
-- **[About]({{< ref "about" >}})** — who runs Let's Phi, what members say, and our campus chapters
+- **[About]({{< ref "about" >}})** — who runs Let's Phi, what members say, and how to get involved
 
 ## Share your story
 

@@ -51,19 +51,9 @@ In their own words:
 <div class="lp-quote-who">Joshua Bucheli <span class="lp-quote-role">— former Head of Community, now in cybersecurity recruitment</span></div>
 </div>
 
-## Campus chapters
-
-Let's Phi chapters bring the community to campus with in-person talks, workshops and networking sessions.
-
-### St Andrews
-
-The School of Philosophy at the University of St Andrews is a top-ranked school in the [UK](https://www.theguardian.com/education/ng-interactive/2022/sep/24/the-guardian-university-guide-2023-the-rankings) and [globally](https://www.topuniversities.com/university-subject-rankings/philosophy). Rankings alone do not guarantee a job, though, especially with a humanities degree. The chapter exists to show students that philosophy graduates build fulfilling careers *thanks to*, rather than despite, their degree. It runs offline and online talks, workshops and networking sessions that connect current and former philosophy students, drawing on the wider Let's Phi network.
-
-If you're a current St Andrews student, the chapter can use help with outreach, logistics and marketing. And if you have a philosophy degree and work outside academia, chapter events are a good place to tell your story. Chapter co-founders: [Mariana Razina](https://www.linkedin.com/in/mariana-razina) and [Yangtian Xu](https://www.linkedin.com/in/yangtianx).
-
 ## Get involved
 
-Let's Phi is deliberately run lean these days, but there are still good ways in. If you built a career outside academia, we'd love to interview you: one relaxed conversation, and we turn it into a story for the library and the newsletter. If you want to bring Let's Phi to your university, we'll help you set it up, the way the St Andrews founders did. And if you want to write for the newsletter, or help in a way we haven't thought of, tell us that too.
+Let's Phi is deliberately run lean these days, but there are still good ways in. If you built a career outside academia, we'd love to interview you: one relaxed conversation, and we turn it into a story for the library and the newsletter. If you want to bring Let's Phi to your university, we'll help you set it up. And if you want to write for the newsletter, or help in a way we haven't thought of, tell us that too.
 
 For any of these, reach out to [Konrad on LinkedIn](https://www.linkedin.com/in/konrad-urban/).
 
