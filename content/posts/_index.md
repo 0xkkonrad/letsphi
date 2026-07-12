@@ -2,7 +2,7 @@
 title: "Articles"
 description: "Career advice, workshop write-ups and resources for philosophers heading beyond academia — from the Let's Phi newsletter."
 cascade:
-  showDate: true
+  showDate: false
   showSummary: true
 ---
 

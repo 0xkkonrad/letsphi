@@ -50,4 +50,4 @@ mainSections = ["posts"]
   showSummary = true
   showViews = false
   showLikes = false
-  groupByYear = true
+  groupByYear = false
