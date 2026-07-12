@@ -7,7 +7,7 @@ description: "Current roles and evergreen sources for philosophy-shaped careers 
 Roles where philosophers are a genuinely good fit — and the places where they keep appearing.
 {{< /lead >}}
 
-This board is refreshed with each [newsletter](https://letsphi.substack.com/) issue. If your organisation is hiring and you think philosophers would thrive in the role, [get in touch]({{< ref "team" >}}) and we'll list it.
+This board is refreshed with each [newsletter](https://letsphi.substack.com/) issue. If your organisation is hiring and you think philosophers would thrive in the role, [get in touch]({{< ref "about" >}}#get-involved) and we'll list it.
 
 ## Current openings
 

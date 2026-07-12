@@ -1,78 +1,92 @@
 # -- Main Menu --
 # The main menu is displayed in the header at the top of the page.
+# Six top-level items; Stories/Articles/Events nest under the Library dropdown.
 
 [[main]]
   name = "Start Here"
   pageRef = "start"
-  weight = 3
+  weight = 10
 
 [[main]]
   name = "Paths"
   pageRef = "paths"
-  weight = 5
+  weight = 20
+
+[[main]]
+  identifier = "library"
+  name = "Library"
+  weight = 30
 
 [[main]]
   name = "Stories"
   pageRef = "stories"
-  weight = 10
+  parent = "library"
+  weight = 1
 
 [[main]]
   name = "Articles"
   pageRef = "posts"
-  weight = 15
+  parent = "library"
+  weight = 2
 
 [[main]]
   name = "Events"
   pageRef = "events"
-  weight = 20
-
-[[main]]
-  name = "Testimonials"
-  pageRef = "testimonials"
-  weight = 30
-
-[[main]]
-  name = "Chapters"
-  pageRef = "local"
-  weight = 40
+  parent = "library"
+  weight = 3
 
 [[main]]
   name = "Opportunities"
   pageRef = "opportunities"
-  weight = 50
+  weight = 40
 
 [[main]]
-  name = "Team"
-  pageRef = "team"
-  weight = 60
+  name = "About"
+  pageRef = "about"
+  weight = 50
 
 [[main]]
   name = "Newsletter"
   url = "https://letsphi.substack.com/"
-  weight = 70
+  weight = 60
   [main.params]
     icon = "substack"
 
 # -- Footer Menu --
 [[footer]]
+  name = "Start Here"
+  pageRef = "start"
+  weight = 5
+
+[[footer]]
   name = "Paths"
   pageRef = "paths"
-  weight = 5
+  weight = 10
 
 [[footer]]
   name = "Stories"
   pageRef = "stories"
-  weight = 10
+  weight = 15
+
+[[footer]]
+  name = "Articles"
+  pageRef = "posts"
+  weight = 20
 
 [[footer]]
   name = "Events"
   pageRef = "events"
-  weight = 20
+  weight = 25
 
 [[footer]]
-  name = "Team"
-  pageRef = "team"
+  name = "Opportunities"
+  pageRef = "opportunities"
   weight = 30
+
+[[footer]]
+  name = "About"
+  pageRef = "about"
+  weight = 35
 
 [[footer]]
   name = "Newsletter"

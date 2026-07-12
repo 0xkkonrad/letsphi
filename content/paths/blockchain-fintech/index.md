@@ -22,7 +22,7 @@ The label covers everything from two-person protocol startups to established pay
 - **Federico Ast** — co-founder and CEO of [Kleros](https://kleros.io/), the decentralised justice protocol; spoke at our "Future of Law-Tech" event
 - **Fotis Tsiroukis** — PhD candidate in Philosophy of Open Science (Exeter), KERNEL fellow working on crypto privacy and decentralised science
 
-After our Kleros events, community member **Andy Chan** got an internship at Federico's firm and **Paul Poenicke** won the Kleros Justice Fellowship. [Their accounts are on the testimonials page]({{< ref "testimonials" >}}).
+After our Kleros events, community member **Andy Chan** got an internship at Federico's firm and **Paul Poenicke** won the Kleros Justice Fellowship. [Their accounts are on the about page]({{< ref "about" >}}#what-members-say).
 
 ## From our events
 

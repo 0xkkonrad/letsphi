@@ -21,7 +21,7 @@ Recruiters work either at agencies, firms like Cyberunity that fill roles for ma
 {{< person name="Joshua Bucheli" img="team-joshua-bucheli.jpg" role="Cybersecurity recruitment, Cyberunity" sub="MA in Political, Legal and Economic Philosophy, Bern — former Let's Phi Head of Community" link="https://www.linkedin.com/in/joshua-bucheli/" >}}
 {{< /people >}}
 
-Joshua's own account of the move is on the [testimonials page]({{< ref "testimonials" >}}).
+Joshua's own account of the move is on the [about page]({{< ref "about" >}}#what-members-say).
 
 ## From our events
 

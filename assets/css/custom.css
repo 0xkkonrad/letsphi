@@ -50,6 +50,11 @@
   color: rgb(var(--color-neutral-400));
 }
 
+/* Header nav: menu labels never wrap onto two lines */
+.main-menu nav a span {
+  white-space: nowrap;
+}
+
 /* Homepage banner */
 .lp-hero {
   width: 100%;
