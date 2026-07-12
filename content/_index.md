@@ -16,7 +16,7 @@ Today, Let's Phi is a **living library**: everything stays free and open, the [o
 
 ## Not sure what you want to do?
 
-Most philosophy graduates aren't. We wrote a page for exactly that: how the job world is organised, in plain terms, and five questions that suggest which guide to read first.
+Most philosophy graduates aren't. We wrote a page for exactly that: how the job world is organised, in plain terms, questions worth asking yourself, and things you can try this month to find out more.
 
 {{< button href="/start/" >}}I don't know what I want to do →{{< /button >}}
 
