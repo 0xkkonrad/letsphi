@@ -10,9 +10,9 @@ aliases: ["/home"]
 **"I've studied philosophy? Now what?!"** — We're here to help.
 {{< /lead >}}
 
-Let's Phi helps philosophers find career opportunities outside of academia. We run virtual conferences, workshops and networking events, and we share the stories of philosophers who built fulfilling careers beyond the university.
+Let's Phi helps philosophers find career opportunities outside of academia. Since 2020 we have run three conferences and dozens of workshops for a global community of **1,800+ members** — and collected the stories of philosophers who built fulfilling careers beyond the university.
 
-We are a global community of **1,800+ members**, **13 mentors** and a small volunteer team.
+Today, Let's Phi is a **living library**: everything stays free and open, the [opportunities board]({{< ref "opportunities" >}}) is refreshed with each newsletter issue, and whenever we sit down with another philosopher who made the leap, a new story lands here and in your inbox.
 
 ## Why Let's Phi?
 
@@ -23,12 +23,18 @@ Let's Phi exists to change that. We help you leverage your philosophy skills for
 ## Start here
 
 - **[Stories]({{< ref "stories" >}})** — philosophers who built careers in tech, ethics consulting, policy, risk and more
-- **[Events]({{< ref "events" >}})** — our conferences, workshops and talks
+- **[Opportunities]({{< ref "opportunities" >}})** — current roles where philosophers are a good fit
+- **[Articles]({{< ref "posts" >}})** — career advice, interviews and resources from the newsletter
+- **[Events]({{< ref "events" >}})** — the archive of our conferences, workshops and talks
 - **[Testimonials]({{< ref "testimonials" >}})** — what our community says about us
 - **[Chapters]({{< ref "local" >}})** — Let's Phi on your campus
-- **[Opportunities]({{< ref "opportunities" >}})** — roles where philosophers are a good fit
-- **[Articles]({{< ref "posts" >}})** — career advice, workshop write-ups and resources from our newsletter
 - **[Team]({{< ref "team" >}})** — the people behind Let's Phi
-- **[Newsletter](https://letsphi.substack.com/)** — get new articles straight to your inbox
+- **[Newsletter](https://letsphi.substack.com/)** — occasional, story-driven; a new issue whenever there's a new story
 
 {{< button href="/stories/" >}}Read the stories{{< /button >}}
+
+## Share your story
+
+Did you study philosophy and build a career outside academia? Your path is exactly what a philosophy student somewhere is trying to picture right now. We'd love to interview you — one relaxed conversation, and we turn it into a story for the library and the newsletter.
+
+Reach out to [Konrad on LinkedIn](https://www.linkedin.com/in/konrad-urban/) to set it up.

@@ -16,4 +16,8 @@ Real philosophers, real careers outside academia. Every one of them has spoken a
 {{< person name="Jim Baxter" img="stories-jim-baxter.jpg" role="Professional Ethics Consultancy Team Leader, IDEA Centre, University of Leeds" sub="PhD in Philosophy, University of Leeds (2017)" link="https://www.linkedin.com/in/jimbaxtersheffieldleeds/" >}}
 {{< /people >}}
 
-Want to hear these stories first-hand? Most of our guests spoke at a [Let's Phi event]({{< ref "events" >}}).
+Want to hear these stories first-hand? Most of our guests spoke at a [Let's Phi event]({{< ref "events" >}}), and newer interviews appear as [articles]({{< ref "posts" >}}).
+
+---
+
+**Is your story missing from this page?** If you studied philosophy and built a career outside academia, we'd love to interview you — one relaxed conversation, and your story helps the next philosopher make the leap. Reach out to [Konrad on LinkedIn](https://www.linkedin.com/in/konrad-urban/).

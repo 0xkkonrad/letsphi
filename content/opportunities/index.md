@@ -1,13 +1,30 @@
 ---
 title: "Opportunities"
-description: "Work opportunities where philosophers are a good fit."
+description: "Current roles and evergreen sources for philosophy-shaped careers outside academia."
 ---
 
 {{< lead >}}
-Roles where philosophers are a genuinely good fit — shared by the community, for the community.
+Roles where philosophers are a genuinely good fit — and the places where they keep appearing.
 {{< /lead >}}
 
-New opportunities are shared within the Let's Phi community as they come up. If your organisation is hiring and you think philosophers would thrive in the role, get in touch with anyone on the [team]({{< ref "team" >}}).
+This board is refreshed with each [newsletter](https://letsphi.substack.com/) issue. If your organisation is hiring and you think philosophers would thrive in the role, [get in touch]({{< ref "team" >}}) and we'll list it.
+
+## Current openings
+
+*Last refreshed: 12 July 2026.*
+
+- **Head of US Policy** at [GovAI](https://www.governance.ai/opportunities) — senior role directing federal AI policy research from Washington, DC. Initial deadline 6 August 2026, rolling thereafter.
+
+## Where to look
+
+The listings above go stale; these sources don't. If you check a few of them monthly, you will see most of the philosopher-shaped openings:
+
+- **[80,000 Hours job board](https://jobs.80000hours.org/)** — the richest single source of ethics, AI governance and policy roles; filter for "policy" or "research".
+- **[GovAI opportunities](https://www.governance.ai/opportunities)** — recurring winter/summer fellowships in AI governance; a well-trodden path from philosophy into AI policy.
+- **[PhilJobs](https://philjobs.org/)** — the academic job board, but it also carries non-academic listings.
+- **[Daily Nous — non-academic careers](https://dailynous.com/category/non-academic-jobs-2/)** — the philosophy profession's news site; tracks who's hiring philosophers and profiles those who left.
+- **[APA — beyond the academy](https://www.apaonline.org/page/nonacademic)** — the American Philosophical Association's resources on non-academic careers.
+- **Ethics consultancies** — small firms like [Principia Advisory](https://www.principia-advisory.com/) (where [Christine Jakobson]({{< ref "stories" >}}) works) hire philosophers directly; find them via our [Stories]({{< ref "stories" >}}) and follow the firms.
 
 ## Where philosophers end up
 
