@@ -17,10 +17,6 @@ Paid writing splits into a few worlds. Content marketing, where companies publis
 
 ## Philosophers who've done it
 
-{{< people >}}
-{{< person name="Joshua Habgood-Coote" img="stories-joshua-habgood-coote.jpg" role="Research Fellow & public writer, University of Leeds" sub="PhD in Philosophy, St Andrews & Stirling" link="https://joshuahabgoodcoote.com/" >}}
-{{< /people >}}
-
 - **Alex Yates, PhD** — wrote a doctoral dissertation on Frege's philosophy of logic at St Andrews, then built a career in content marketing, first freelance and then full-time; spoke at our June 2023 workshop
 - **Leonardo Werner** — community contributor who published [an essay on augmented reality]({{< ref "posts/augmented-reality-benefits-and-challenges" >}}) with us
 
