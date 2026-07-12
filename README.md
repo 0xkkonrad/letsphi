@@ -22,6 +22,10 @@ content/             # one folder per page; images live next to their page
 assets/img/          # logo + hero image
 assets/css/custom.css# custom styles (people grid, testimonial cards)
 layouts/shortcodes/  # `people` / `person` card shortcodes
+interviews/          # interview transcripts: drop in inbox/, pipeline moves to processed/
+newsletter/issues/   # Substack-ready issue drafts produced by the pipeline
+.claude/skills/      # `new-issue` — transcript → story page + opportunities refresh + issue draft
+docs/ROADMAP.md      # operating model (living library + interview flywheel) and V2 ideas
 ```
 
 ### Changing the design
