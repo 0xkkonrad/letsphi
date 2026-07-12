@@ -1,0 +1,22 @@
+{{- $name := .Get "name" -}}
+{{- $role := .Get "role" -}}
+{{- $sub := .Get "sub" -}}
+{{- $link := .Get "link" -}}
+{{- $img := .Get "img" -}}
+<div class="lp-person">
+  {{- with $img -}}
+    {{- with $.Page.Resources.GetMatch . -}}
+      {{- $thumb := .Fill "480x480 q85" -}}
+      <img src="{{ $thumb.RelPermalink }}" alt="{{ $name }}" loading="lazy" class="nozoom" />
+    {{- end -}}
+  {{- end -}}
+  <div class="lp-person-name">
+    {{- with $link -}}
+      <a href="{{ . }}" target="_blank" rel="noopener">{{ $name }}</a>
+    {{- else -}}
+      {{ $name }}
+    {{- end -}}
+  </div>
+  {{- with $role }}<div class="lp-person-role">{{ . }}</div>{{ end -}}
+  {{- with $sub }}<div class="lp-person-sub">{{ . | markdownify }}</div>{{ end -}}
+</div>

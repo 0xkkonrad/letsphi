@@ -1,0 +1,48 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+
+[[main]]
+  name = "Stories"
+  pageRef = "stories"
+  weight = 10
+
+[[main]]
+  name = "Events"
+  pageRef = "events"
+  weight = 20
+
+[[main]]
+  name = "Testimonials"
+  pageRef = "testimonials"
+  weight = 30
+
+[[main]]
+  name = "Chapters"
+  pageRef = "local"
+  weight = 40
+
+[[main]]
+  name = "Opportunities"
+  pageRef = "opportunities"
+  weight = 50
+
+[[main]]
+  name = "Team"
+  pageRef = "team"
+  weight = 60
+
+# -- Footer Menu --
+[[footer]]
+  name = "Stories"
+  pageRef = "stories"
+  weight = 10
+
+[[footer]]
+  name = "Events"
+  pageRef = "events"
+  weight = 20
+
+[[footer]]
+  name = "Team"
+  pageRef = "team"
+  weight = 30

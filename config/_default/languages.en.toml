@@ -1,0 +1,12 @@
+locale = "en"
+label = "English"
+weight = 1
+title = "Let's Phi"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  description = "Let's Phi helps philosophers find career opportunities outside of academia. Conferences, workshops, mentoring — and stories from philosophers who made the leap."

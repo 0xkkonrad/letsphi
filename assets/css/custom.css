@@ -1,0 +1,67 @@
+/* Let's Phi custom styles */
+
+.lp-people {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 2.5rem 1.5rem;
+  margin: 2.5rem 0;
+}
+
+.lp-person {
+  text-align: center;
+}
+
+.lp-person img {
+  width: 160px;
+  height: 160px;
+  border-radius: 9999px;
+  object-fit: cover;
+  margin: 0 auto 0.8rem;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+}
+
+.lp-person-name {
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+.lp-person-name a {
+  text-decoration: none;
+}
+
+.lp-person-role {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: rgb(var(--color-primary-600));
+  margin-top: 0.15rem;
+}
+
+.dark .lp-person-role {
+  color: rgb(var(--color-primary-400));
+}
+
+.lp-person-sub {
+  font-size: 0.85rem;
+  color: rgb(var(--color-neutral-500));
+  margin-top: 0.15rem;
+}
+
+.dark .lp-person-sub {
+  color: rgb(var(--color-neutral-400));
+}
+
+/* Homepage banner */
+.lp-hero {
+  width: 100%;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Testimonial screenshots: keep a comfortable width, centered */
+.lp-testimonial img {
+  max-width: 720px;
+  width: 100%;
+  margin: 1.5rem auto;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+}

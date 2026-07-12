@@ -1,0 +1,48 @@
+# -- Theme Options --
+# https://blowfish.page/docs/configuration/#theme-parameters
+
+colorScheme = "blowfish"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = false
+
+disableImageOptimization = false
+
+[header]
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "page" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/hero-wave.png" # used by hero/card layouts if you switch
+  showRecent = false
+  showMoreLink = false
+  disableHeroImageFilter = true # image is already a brand gradient
+
+[article]
+  showDate = false
+  showAuthor = false
+  showReadingTime = false
+  showWordCount = false
+  showPagination = false
+  showTableOfContents = false
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showZenMode = false
+  sharingLinks = []
+
+[list]
+  showBreadcrumbs = false
+  showSummary = false
+  showViews = false
+  showLikes = false
+  groupByYear = false
