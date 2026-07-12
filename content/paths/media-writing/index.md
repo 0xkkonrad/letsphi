@@ -11,6 +11,10 @@ Philosophers write for a living more often than any other single job: content ma
 
 Our very first conference theme ("Philosophers in Media", 200+ attendees) and one of our last workshops (content marketing) bracket the same lesson: writing clearly, learning fast and seeing the big picture — the skills a philosophy degree drills — are exactly what professional writing careers run on.
 
+## The lay of the land
+
+Paid writing splits into a few worlds: **content marketing** (companies publishing articles and guides to win customers — the biggest job market by far), **technical and UX writing** (documentation, product copy), **journalism and publishing**, and **public philosophy** (essays and books for general readers — usually a side door, rarely a first salary). Job titles to search: *content marketer, content writer, copywriter, technical writer, editor, communications associate*. This field cares about portfolio over credentials: three published pieces beat any CV line. A realistic first step is to start publishing anywhere public — a blog, a newsletter, guest posts — and treat freelancing as the apprenticeship; that's the exact route Alex Yates took from a Frege dissertation to full-time content marketing.
+
 ## Philosophers who've done it
 
 {{< people >}}

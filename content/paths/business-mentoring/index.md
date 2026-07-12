@@ -11,6 +11,10 @@ Not every philosopher lands in an "ethics-shaped" role. Some run mentoring organ
 
 The strongest single piece we've published on this is [Philosophy Means Business]({{< ref "posts/philosophy-means-business" >}}): the argument that philosophers build the "soft structures" — ESG, diversity & inclusion policies, corporate social responsibility — that companies increasingly stake their reputations on, and that argumentation, emotional intelligence and analytical skill are business skills.
 
+## The lay of the land
+
+Most jobs in most companies aren't technical — they're **operations** (making the machine run), **program and project management** (making specific things happen on time), **people & culture**, **ESG and corporate responsibility**, and generalist roles like **chief of staff**. Job titles to search: *operations associate, program coordinator, project manager, ESG analyst, people & culture associate, chief of staff*. None of them say "philosopher"; all of them reward someone who can structure ambiguity and write clearly. The **mentoring and non-profit** world (like Magnify Mentoring) runs on the same roles with mission attached. A realistic first step: pick organisations you'd be proud to help run, apply to their generalist openings, and let [Philosophy Means Business]({{< ref "posts/philosophy-means-business" >}}) supply the language for your cover letter.
+
 ## Philosophers who've done it
 
 {{< people >}}

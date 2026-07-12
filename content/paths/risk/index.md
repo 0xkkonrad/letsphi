@@ -11,6 +11,10 @@ Risk work is applied epistemology: reasoning under uncertainty, weighing low-pro
 
 Two flavours of this path showed up in our community: **industry risk roles** (trust & safety, risk prevention, integrity teams at large tech companies) and **catastrophic-risk research** (think tanks and institutes working on AI risk, biorisk and other global threats — a field with deep philosophical roots).
 
+## The lay of the land
+
+In **industry**, every large tech company runs teams whose job is preventing harm on and through the platform — they sit alongside engineering and policy, and hire analysts who can reason about edge cases at scale. Job titles to search: *risk analyst, trust & safety analyst, integrity specialist, risk prevention specialist*. In **research**, a small world of institutes and think tanks works on the largest risks; roles are *research assistant, researcher, program associate*, and hiring often flows from fellowships and advising programs rather than open postings. The industry side pays more and teaches operations; the research side is closer to philosophy and thinner on openings. A realistic first step for either: join a structured conversation program (like GCRI's below) — this field genuinely talks to newcomers.
+
 ## Philosophers who've done it
 
 {{< people >}}

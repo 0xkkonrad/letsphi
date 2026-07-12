@@ -11,6 +11,10 @@ Recruitment in a technical field rewards exactly what philosophers have: fast le
 
 Joshua Bucheli went from a philosophy MA to chairing the ethics committee at ForHumanity, heading Let's Phi's community — and then into cybersecurity recruitment, where he consults experts in data protection, digital forensics and IT risk. His route shows how community involvement and adjacent expertise (AI ethics) can open a technical industry without a technical degree.
 
+## The lay of the land
+
+Recruiters work either at **agencies** (firms like Cyberunity that fill roles for many client companies — commercial, fast, sales-flavoured) or **in-house** (a company's own talent team — steadier, closer to the business). In a specialised field like cybersecurity, the recruiter's real skill is learning the domain well enough to judge expertise they don't personally have — a very philosophical position to be in. Job titles to search: *recruitment consultant, talent acquisition specialist, sourcer, talent community manager*. It's one of the most open doors in this library: agencies hire for judgement and communication, train the rest, and internships (like the one Joshua's firm offered through us) are common entry points.
+
 ## Philosophers who've done it
 
 {{< people >}}

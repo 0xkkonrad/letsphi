@@ -2,6 +2,11 @@
 # The main menu is displayed in the header at the top of the page.
 
 [[main]]
+  name = "Start Here"
+  pageRef = "start"
+  weight = 3
+
+[[main]]
   name = "Paths"
   pageRef = "paths"
   weight = 5

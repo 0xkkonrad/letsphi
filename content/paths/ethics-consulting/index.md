@@ -11,6 +11,10 @@ Organisations increasingly pay for ethical judgement: advisory firms, in-house e
 
 This is the field closest to academic philosophy in day-to-day content — you analyse real cases, structure ethical trade-offs, and write recommendations — but the audience is boards and regulators instead of journals. PhD-level training is common here, and unusually for the non-academic world, it's valued at face value.
 
+## The lay of the land
+
+Three homes for this work: **dedicated ethics consultancies** (small firms like Principia Advisory whose whole product is ethical judgement), **university-based centres** (like the IDEA Centre at Leeds, consulting outward from academia), and **ethics practices inside large consultancies** (digital-ethics teams at firms like Sopra Steria — see the [Management Consulting]({{< ref "paths/consulting" >}}) guide). The day-to-day: client workshops, written frameworks and recommendations, and a lot of translating "it depends" into something a board can act on. Job titles to search: *ethics consultant, research governance adviser, digital ethics analyst, responsible business consultant*. Teams are small, so openings are rare but specific — following the handful of firms directly beats job boards.
+
 ## Philosophers who've done it
 
 {{< people >}}

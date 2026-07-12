@@ -11,6 +11,10 @@ The most-travelled path in our community. Companies building AI need people who 
 
 Philosophers in this field work as in-house ethicists at large tech companies, advisers to startups and investors, researchers at policy institutes, and auditors of algorithmic systems. The skills that matter: conceptual precision (what does "fair" actually mean in this system?), argument evaluation, and the ability to translate abstract principles into decisions engineers can act on.
 
+## The lay of the land
+
+Four kinds of employer hire here: **big tech companies** (responsible-AI and policy teams sitting alongside the engineers), **consultancies and auditors** (checking other companies' AI systems), **policy institutes and non-profits** (shaping the rules), and **startups** (usually one person wearing the whole ethics hat). Job titles to search: *AI ethics researcher, responsible AI analyst, AI policy analyst, AI governance manager, trust & safety analyst*. Fresh graduates typically enter through research-assistant roles, fellowships, or volunteer communities like ForHumanity that provide credible experience. A realistic first step: take a free course, follow the field's news, and write something public about one system's ethics — that's the portfolio.
+
 ## Philosophers who've done it
 
 {{< people >}}
