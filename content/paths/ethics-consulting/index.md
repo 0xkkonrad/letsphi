@@ -1,19 +1,19 @@
 ---
 title: "Ethics Consulting"
-description: "Professional ethics advisory — from university ethics centres to Big-Four-adjacent consultancies."
-summary: "Advising organisations on ethics as a profession — consultancies, ethics centres and in-house roles."
+description: "Ethics consulting careers for philosophers: consultancies, university centres and in-house roles."
+summary: "Advising organisations on ethics questions, as a job. The field closest to the seminar room."
 weight: 20
 ---
 
 {{< lead >}}
-Organisations increasingly pay for ethical judgement: advisory firms, in-house ethics teams, and university-affiliated consultancies all hire philosophers to do applied ethics for a living.
+Some organisations pay for ethical judgement directly: advisory firms, in-house ethics teams and university-affiliated consultancies all hire philosophers to do applied ethics for a living.
 {{< /lead >}}
 
-This is the field closest to academic philosophy in day-to-day content — you analyse real cases, structure ethical trade-offs, and write recommendations — but the audience is boards and regulators instead of journals. PhD-level training is common here, and unusually for the non-academic world, it's valued at face value.
+Of all the fields on this site, this one is closest to academic philosophy in daily content. You analyse real cases, structure trade-offs, and write recommendations, except the audience is boards and regulators rather than journals. A PhD is common here and, unusually for the non-academic world, counts in your favour at face value.
 
 ## The lay of the land
 
-Three homes for this work: **dedicated ethics consultancies** (small firms like Principia Advisory whose whole product is ethical judgement), **university-based centres** (like the IDEA Centre at Leeds, consulting outward from academia), and **ethics practices inside large consultancies** (digital-ethics teams at firms like Sopra Steria — see the [Management Consulting]({{< ref "paths/consulting" >}}) guide). The day-to-day: client workshops, written frameworks and recommendations, and a lot of translating "it depends" into something a board can act on. Job titles to search: *ethics consultant, research governance adviser, digital ethics analyst, responsible business consultant*. Teams are small, so openings are rare but specific — following the handful of firms directly beats job boards.
+The work has three homes. Dedicated ethics consultancies, like Principia Advisory, sell ethical judgement as their whole product. University-based centres, like the IDEA Centre at Leeds, consult outward from academia. And large consultancies have growing digital-ethics practices inside them, like the one Kevin Macnish runs at Sopra Steria (see the [Management Consulting]({{< ref "paths/consulting" >}}) guide for that world). Day to day it's client workshops, written frameworks and a lot of turning "it depends" into something a board can act on. Roles are advertised as *ethics consultant*, *research governance adviser*, *digital ethics analyst* or *responsible business consultant*. The teams are small and openings are rare, so following the handful of firms directly works better than job boards.
 
 ## Philosophers who've done it
 
@@ -32,8 +32,8 @@ Three homes for this work: **dedicated ethics consultancies** (small firms like 
 
 ## Start here
 
-- Follow the firms directly: [Principia Advisory](https://www.principia-advisory.com/) and the [IDEA Centre](https://ahc.leeds.ac.uk/inter-disciplinary-ethics-applied) hire philosophers; larger consultancies (like Sopra Steria) have digital-ethics practices
-- [Philosophy Means Business]({{< ref "posts/philosophy-means-business" >}}) — the case for philosophers building "soft structures" (ESG, EDI, CSR) inside companies
+- Follow the firms directly: [Principia Advisory](https://www.principia-advisory.com/) and the [IDEA Centre](https://ahc.leeds.ac.uk/inter-disciplinary-ethics-applied) hire philosophers; larger consultancies have digital-ethics practices
+- [Philosophy Means Business]({{< ref "posts/philosophy-means-business" >}}) — on philosophers building the value frameworks (ESG, EDI, CSR) that companies commit to
 - The [opportunities board]({{< ref "opportunities" >}}) — ethics consultancies appear there as they hire
 
 {{< subscribe >}}

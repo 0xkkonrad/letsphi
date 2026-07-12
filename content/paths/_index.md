@@ -6,8 +6,8 @@ cascade:
   showSummary: true
 ---
 
-Every guide below is built from real people and real events: philosophers who spoke at our workshops, told us their stories, or shared the resources that got them started. Pick the field that pulls you, and you'll find who's done it, what they said, and where to begin.
+The guides below are built from our own events and community: the people who have done the job, the talks they gave, and the resources they shared.
 
-**No pull yet?** Completely normal — [start with the map and the five-question picker]({{< ref "start" >}}).
+**Not sure which one?** [Start with the map and the five-question picker]({{< ref "start" >}}).
 
-One honest note before you browse: these guides are the journeys *our community* has taken, not a census of what philosophers can do. Law, policy, government, teaching, product — the doors are more numerous than any list. If your path is missing, [share your story](/#share-your-story) and we'll add it.
+These are the paths our community has taken, not a complete list of what philosophers can do. We also know philosophers in law, policy, government, teaching and product management. If your path is missing, [share your story](/#share-your-story) and we'll add it.

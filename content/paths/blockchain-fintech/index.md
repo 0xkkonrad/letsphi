@@ -1,20 +1,20 @@
 ---
 title: "Blockchain & Fintech"
-description: "Decentralised finance, law-tech and blockchain — where mechanism design meets political philosophy."
-summary: "DeFi startups and decentralised justice — an unexpectedly philosophical corner of tech."
+description: "Blockchain and fintech careers for philosophers: research, governance and community roles at young companies."
+summary: "Young companies building financial and governance systems from scratch, where arguments still beat credentials."
 weight: 40
 aliases: ["/paths/web3-fintech/"]
 ---
 
 {{< lead >}}
-Decentralised systems are institutions built from scratch — governance, dispute resolution, incentive design. That's political philosophy with a compiler, and our community has landed founders, fellows and interns in the space.
+Decentralised systems are institutions built from scratch: governance, dispute resolution, incentive design. The questions are recognisably philosophical, and our community has landed founders, fellows and interns in the space.
 {{< /lead >}}
 
-This corner of tech is unusually open to outsiders with sharp conceptual skills: projects are young, credentials matter less than clear thinking, and the problems (how should a decentralised court work? what makes a token system fair?) are genuinely philosophical.
+This corner of tech is unusually open to outsiders with sharp conceptual skills. Projects are young, credentials matter less than clear thinking, and problems like "how should a decentralised court work?" or "what makes a token system fair?" reward exactly the training a philosophy degree provides.
 
 ## The lay of the land
 
-"Blockchain & fintech" spans everything from two-person protocol startups to established payment companies. Most philosopher-shaped roles cluster in **research** (analysing how a protocol's incentives behave), **governance** (designing and running the decision-making of decentralised organisations), **operations and community** at young startups, and **writing** (this industry runs on explainers and documentation). Job titles to search: *protocol researcher, governance analyst, research analyst, community lead, technical writer*. Teams are small and flat — expect to wear several hats rather than climb a ladder. A realistic first step is contributing in public: the communities and free courses below are how outsiders become insiders.
+The label covers everything from two-person protocol startups to established payment companies. The roles philosophers tend to fill are in research (analysing how a protocol's incentives behave), governance (designing and running the decision-making of decentralised organisations), operations and community at young startups, and writing, since the industry runs on explainers and documentation. Search for *protocol researcher*, *governance analyst*, *research analyst*, *community lead* or *technical writer*. Teams are small and flat, so expect several hats rather than a ladder. Outsiders usually become insiders by contributing in public, and the communities and free courses below are the standard way in.
 
 ## Philosophers who've done it
 
@@ -22,7 +22,7 @@ This corner of tech is unusually open to outsiders with sharp conceptual skills:
 - **Federico Ast** — co-founder and CEO of [Kleros](https://kleros.io/), the decentralised justice protocol; spoke at our "Future of Law-Tech" event
 - **Fotis Tsiroukis** — PhD candidate in Philosophy of Open Science (Exeter), KERNEL fellow working on crypto privacy and decentralised science
 
-And it works: after our Kleros events, community member **Andy Chan** landed an internship at Federico's firm, and **Paul Poenicke** won the Kleros Justice Fellowship — [their words]({{< ref "testimonials" >}}).
+After our Kleros events, community member **Andy Chan** got an internship at Federico's firm and **Paul Poenicke** won the Kleros Justice Fellowship. [Their accounts are on the testimonials page]({{< ref "testimonials" >}}).
 
 ## From our events
 
@@ -32,7 +32,7 @@ And it works: after our Kleros events, community member **Andy Chan** landed an 
 
 ## Start here
 
-- [Web3 Needs Philosophers — Resources to Get You Started]({{< ref "posts/web3-needs-philosophers-resources" >}}) — free MOOCs on DeFi and digital currency, Kleros' build-in-blockchain videos, and communities to join
-- Investing in this space is its own path — see [Venture Capital]({{< ref "paths/venture-capital" >}}); building a company here is too — see [Entrepreneurship & Startups]({{< ref "paths/entrepreneurship-startups" >}})
+- [Web3 Needs Philosophers — Resources to Get You Started]({{< ref "posts/web3-needs-philosophers-resources" >}}) — free MOOCs on DeFi and digital currency, Kleros' videos on building in the space, and communities to join
+- Investing in this space is its own path; see [Venture Capital]({{< ref "paths/venture-capital" >}}). So is building a company here; see [Entrepreneurship & Startups]({{< ref "paths/entrepreneurship-startups" >}})
 
 {{< subscribe >}}

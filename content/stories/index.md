@@ -4,7 +4,7 @@ description: "Philosophers who built careers outside academia — in ethics cons
 ---
 
 {{< lead >}}
-Real philosophers, real careers outside academia. Every one of them has spoken at a Let's Phi event — their journeys are the best proof that a philosophy degree opens doors.
+Philosophers who built careers outside academia. Each of them spoke at a Let's Phi event, and each career below is one a philosophy student could reasonably aim for.
 {{< /lead >}}
 
 {{< people >}}

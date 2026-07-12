@@ -4,7 +4,7 @@ description: "What the Let's Phi community says about our events, stories and ne
 ---
 
 {{< lead >}}
-Since summer 2020, Let's Phi has helped philosophy students find their place outside academia — career events, stories and shared opportunities. Here's what community members say, in their own words.
+Since summer 2020, Let's Phi has helped philosophy students find their place outside academia through career events, stories and shared opportunities. Here is what community members say, in their own words.
 {{< /lead >}}
 
 <div class="lp-quote">
@@ -23,4 +23,4 @@ Since summer 2020, Let's Phi has helped philosophy students find their place out
 <div class="lp-quote-who">Joshua Bucheli <span class="lp-quote-role">— former Head of Community, now in cybersecurity recruitment</span></div>
 </div>
 
-{{< subscribe title="Want results like these?" >}}
+{{< subscribe >}}

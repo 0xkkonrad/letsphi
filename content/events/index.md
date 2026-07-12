@@ -4,7 +4,7 @@ description: "Let's Phi conferences, workshops and talks on non-academic careers
 ---
 
 {{< lead >}}
-Since 2020 we have run three full conferences and dozens of talks and workshops — always free, always online, always about what philosophers can do beyond the university.
+Between 2020 and 2023 we ran three conferences and dozens of talks and workshops, all free and online, on what philosophers can do beyond the university.
 {{< /lead >}}
 
 This page is the archive of that era. We're not currently running events — these days new [Stories]({{< ref "stories" >}}) are how Let's Phi grows — but many of the speakers below also appear there, and if an event ever makes sense again, the [newsletter](https://letsphi.substack.com/) will be the first to know.

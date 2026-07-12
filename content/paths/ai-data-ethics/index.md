@@ -1,19 +1,19 @@
 ---
 title: "AI & Data Ethics"
-description: "From philosophy seminar to AI ethics: bioethics at Google, startup advisory, research governance."
-summary: "The most-travelled path in our community — bioethics at Google, startup AI-ethics advisory, research governance."
+description: "Careers in AI ethics for philosophers: who hires, what the roles are called, and where to start."
+summary: "The most common path in our community: working out what counts as fair or harmful in AI systems."
 weight: 10
 ---
 
 {{< lead >}}
-The most-travelled path in our community. Companies building AI need people who can reason carefully about fairness, harm, transparency and responsibility — which is what philosophers train for.
+The most common path in our community. Companies building AI need people who can reason carefully about fairness, harm and responsibility, and philosophers are trained for that.
 {{< /lead >}}
 
-Philosophers in this field work as in-house ethicists at large tech companies, advisers to startups and investors, researchers at policy institutes, and auditors of algorithmic systems. The skills that matter: conceptual precision (what does "fair" actually mean in this system?), argument evaluation, and the ability to translate abstract principles into decisions engineers can act on.
+The work ranges from advising engineers on a specific system to writing the policies a whole company follows. What matters day to day is conceptual precision (what does "fair" mean in this system?), evaluating arguments, and translating principles into decisions other people can act on.
 
 ## The lay of the land
 
-Four kinds of employer hire here: **big tech companies** (responsible-AI and policy teams sitting alongside the engineers), **consultancies and auditors** (checking other companies' AI systems), **policy institutes and non-profits** (shaping the rules), and **startups** (usually one person wearing the whole ethics hat). Job titles to search: *AI ethics researcher, responsible AI analyst, AI policy analyst, AI governance manager, trust & safety analyst*. Fresh graduates typically enter through research-assistant roles, fellowships, or volunteer communities like ForHumanity that provide credible experience. A realistic first step: take a free course, follow the field's news, and write something public about one system's ethics — that's the portfolio.
+Four kinds of employer hire here. Big tech companies have responsible-AI and policy teams sitting alongside the engineers. Consultancies and auditors check other companies' AI systems. Policy institutes and non-profits work on the rules. And startups sometimes hire one person to cover all of it. Roles are advertised as *AI ethics researcher*, *responsible AI analyst*, *AI policy analyst*, *AI governance manager* or *trust & safety analyst*. Fresh graduates usually get in through research-assistant roles, fellowships, or volunteer communities like ForHumanity, which count as experience. A sensible start: take a free course, follow the field's news, and publish something about the ethics of one concrete system.
 
 ## Philosophers who've done it
 
@@ -21,9 +21,9 @@ Four kinds of employer hire here: **big tech companies** (responsible-AI and pol
 {{< person name="Geoff Keeling" img="stories-geoff-keeling.jpg" role="Bioethicist at Google" sub="PhD in Philosophy, University of Bristol" link="https://www.linkedin.com/in/geoff-keeling-67339268/" >}}
 {{< /people >}}
 
-- **[Alessandra Fassio]({{< ref "posts/philosophy-graduates-working-in-ai" >}})** — our interview on getting into AI & data ethics (Part 1)
-- **[Katie Evans]({{< ref "posts/philosophy-graduates-working-in-ai-183" >}})** — our interview on working in AI & data ethics (Part 2)
-- **Ravit Dotan, PhD** — UC Berkeley philosophy PhD who helps startups and investors build AI-ethics strategies; spoke at our July 2022 workshop
+- **[Alessandra Fassio]({{< ref "posts/philosophy-graduates-working-in-ai" >}})** — our interview about getting into AI and data ethics (Part 1)
+- **[Katie Evans]({{< ref "posts/philosophy-graduates-working-in-ai-183" >}})** — our interview about working in AI and data ethics (Part 2)
+- **Ravit Dotan, PhD** — UC Berkeley philosophy PhD who advises startups and investors on AI ethics; spoke at our July 2022 workshop
 
 ## From our events
 
@@ -33,9 +33,9 @@ Four kinds of employer hire here: **big tech companies** (responsible-AI and pol
 
 ## Start here
 
-- [Our two-part interview series on AI & data ethics careers]({{< ref "posts/philosophy-graduates-working-in-ai" >}})
+- [Our two-part interview series on AI and data ethics careers]({{< ref "posts/philosophy-graduates-working-in-ai" >}})
 - [ForHumanity: Embodying Everything We've Learned]({{< ref "posts/forhumanity-embodying-everything" >}}) — how to get involved with the AI-auditing community ForHumanity, including their free Algorithm Ethics course
-- [Ravit Dotan's starter resources]({{< ref "posts/a-round-up-of-useful-resources-mentorship" >}}) — FAQs on starting out, how to follow the field
+- [Ravit Dotan's starter resources]({{< ref "posts/a-round-up-of-useful-resources-mentorship" >}}) — FAQs on starting out and how to follow the field
 - The [opportunities board]({{< ref "opportunities" >}}) — AI governance and policy roles appear there regularly
 
 {{< subscribe >}}

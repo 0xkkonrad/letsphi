@@ -14,28 +14,28 @@ Let's Phi helps philosophers find career opportunities outside of academia. Sinc
 
 Today, Let's Phi is a **living library**: everything stays free and open, the [opportunities board]({{< ref "opportunities" >}}) is refreshed with each newsletter issue, and whenever we sit down with another philosopher who made the leap, a new story lands here and in your inbox.
 
-## Don't know what you want to do?
+## Not sure what you want to do?
 
-That's the normal starting state — nobody teaches you what jobs even exist. We built a page exactly for that moment: the working-world map nobody gave you, plus a five-question picker that points you to the right guide.
+Most philosophy graduates aren't. We wrote a page for exactly that: how the job world is organised, in plain terms, and five questions that suggest which guide to read first.
 
 {{< button href="/start/" >}}I don't know what I want to do →{{< /button >}}
 
 ## Find your path
 
-Already have a pull toward a field? Each guide combines the people who've done it, the talks we ran about it, and the resources to begin:
+If a field already pulls you, each guide covers the people who've done it, the talks we ran about it, and where to begin:
 
-- **[AI & Data Ethics]({{< ref "paths/ai-data-ethics" >}})** — the most-travelled path: bioethics at Google, startup advisory, algorithm auditing
-- **[Ethics Consulting]({{< ref "paths/ethics-consulting" >}})** — applied ethics for boards and regulators, from consultancies to ethics centres
-- **[Management Consulting]({{< ref "paths/consulting" >}})** — the classic structured route, from the Big Four to strategy firms
-- **[Risk & Catastrophic Risk]({{< ref "paths/risk" >}})** — tech risk teams and research on the biggest risks of all
-- **[Blockchain & Fintech]({{< ref "paths/blockchain-fintech" >}})** — political philosophy with a compiler: DeFi and decentralised justice
-- **[Venture Capital]({{< ref "paths/venture-capital" >}})** — betting on unlikely ideas for a living
-- **[Entrepreneurship & Startups]({{< ref "paths/entrepreneurship-startups" >}})** — founders in our own community started exactly where you are
-- **[Media & Writing]({{< ref "paths/media-writing" >}})** — getting paid to write clearly about hard things
-- **[Cybersecurity & Recruitment]({{< ref "paths/cybersecurity-recruitment" >}})** — into a technical industry without a technical degree
-- **[Business, Mentoring & Beyond]({{< ref "paths/business-mentoring" >}})** — the general case for philosophers inside companies
+- **[AI & Data Ethics]({{< ref "paths/ai-data-ethics" >}})** — working out what counts as fair or harmful in AI systems
+- **[Ethics Consulting]({{< ref "paths/ethics-consulting" >}})** — advising organisations on ethics questions, as a job
+- **[Management Consulting]({{< ref "paths/consulting" >}})** — the standard graduate route into business problem-solving
+- **[Risk & Catastrophic Risk]({{< ref "paths/risk" >}})** — risk teams in tech, and research on large-scale threats
+- **[Blockchain & Fintech]({{< ref "paths/blockchain-fintech" >}})** — young companies building financial systems from scratch
+- **[Venture Capital]({{< ref "paths/venture-capital" >}})** — evaluating early startups for an investment fund
+- **[Entrepreneurship & Startups]({{< ref "paths/entrepreneurship-startups" >}})** — starting a company, or joining one early
+- **[Media & Writing]({{< ref "paths/media-writing" >}})** — jobs where the writing is the work
+- **[Cybersecurity & Recruitment]({{< ref "paths/cybersecurity-recruitment" >}})** — finding and judging technical talent, no technical degree needed
+- **[Business, Mentoring & Beyond]({{< ref "paths/business-mentoring" >}})** — the ordinary roles most organisations run on
 
-And these are just the journeys our community happens to have taken — philosophers we know have also gone into law, policy, government, teaching and product. The doors are more numerous than any list; if yours is missing, [tell us about it](#share-your-story).
+These are the paths people in our community have taken, not a complete list. We also know philosophers in law, policy, government, teaching and product management. If your path is missing, [tell us about it](#share-your-story).
 
 {{< subscribe >}}
 

@@ -1,19 +1,19 @@
 ---
 title: "Cybersecurity & Recruitment"
-description: "From philosophy to cybersecurity recruitment — a path one of our own team took."
-summary: "The path one of our own took: philosophy → AI-ethics community → cybersecurity recruitment."
+description: "Recruitment careers for philosophers, seen through cybersecurity: agencies, in-house teams, and how to get in."
+summary: "Finding and judging technical experts without being one. One of our own team took this path."
 weight: 60
 ---
 
 {{< lead >}}
-Recruitment in a technical field rewards exactly what philosophers have: fast learning, sharp judgement of arguments (and CVs), and the ability to talk to specialists without being one. One of our own team walked this path.
+Recruitment in a technical field rewards fast learning, sound judgement of people and arguments, and the ability to talk to specialists without being one. One of our own team took this path.
 {{< /lead >}}
 
-Joshua Bucheli went from a philosophy MA to chairing the ethics committee at ForHumanity, heading Let's Phi's community — and then into cybersecurity recruitment, where he consults experts in data protection, digital forensics and IT risk. His route shows how community involvement and adjacent expertise (AI ethics) can open a technical industry without a technical degree.
+Joshua Bucheli went from a philosophy MA to chairing the ethics committee at ForHumanity and heading Let's Phi's community, then into cybersecurity recruitment, where he consults experts in data protection, digital forensics and IT risk. Community involvement and adjacent expertise opened a technical industry without a technical degree.
 
 ## The lay of the land
 
-Recruiters work either at **agencies** (firms like Cyberunity that fill roles for many client companies — commercial, fast, sales-flavoured) or **in-house** (a company's own talent team — steadier, closer to the business). In a specialised field like cybersecurity, the recruiter's real skill is learning the domain well enough to judge expertise they don't personally have — a very philosophical position to be in. Job titles to search: *recruitment consultant, talent acquisition specialist, sourcer, talent community manager*. It's one of the most open doors in this library: agencies hire for judgement and communication, train the rest, and internships (like the one Joshua's firm offered through us) are common entry points.
+Recruiters work either at agencies, firms like Cyberunity that fill roles for many client companies, or in-house on a company's own talent team. Agency work is faster and more commercial; in-house is steadier and closer to the business. In a specialised field like cybersecurity, the recruiter's real skill is learning the domain well enough to judge expertise they don't personally have. Roles are advertised as *recruitment consultant*, *talent acquisition specialist*, *sourcer* or *talent community manager*. It is one of the more open doors on this site: agencies hire for judgement and communication and train the rest, and internships are a normal way in. Joshua's firm offered one through us.
 
 ## Philosophers who've done it
 
@@ -21,7 +21,7 @@ Recruiters work either at **agencies** (firms like Cyberunity that fill roles fo
 {{< person name="Joshua Bucheli" img="team-joshua-bucheli.jpg" role="Cybersecurity recruitment, Cyberunity" sub="MA in Political, Legal and Economic Philosophy, Bern — former Let's Phi Head of Community" link="https://www.linkedin.com/in/joshua-bucheli/" >}}
 {{< /people >}}
 
-Joshua's own words about the journey are on the [testimonials page]({{< ref "testimonials" >}}).
+Joshua's own account of the move is on the [testimonials page]({{< ref "testimonials" >}}).
 
 ## From our events
 
@@ -30,6 +30,6 @@ Joshua's own words about the journey are on the [testimonials page]({{< ref "tes
 ## Start here
 
 - [Cybersecurity/AI Resources & Advice for Jobseekers]({{< ref "posts/cybersecurityai-resources-opportunities" >}}) — Joshua's round-up after the workshop
-- [ForHumanity: Embodying Everything We've Learned]({{< ref "posts/forhumanity-embodying-everything" >}}) — the volunteer community that bridged Joshua's philosophy training and industry work
+- [ForHumanity: Embodying Everything We've Learned]({{< ref "posts/forhumanity-embodying-everything" >}}) — the volunteer community that connected Joshua's philosophy training to industry work
 
 {{< subscribe >}}

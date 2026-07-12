@@ -4,55 +4,55 @@
 <script>
 (function () {
   var PATHS = {
-    ai:         { title: "AI & Data Ethics",           url: "/paths/ai-data-ethics/",           blurb: "Fairness, harm and transparency inside the systems everyone is building." },
-    ethics:     { title: "Ethics Consulting",          url: "/paths/ethics-consulting/",        blurb: "Applied ethics for boards and regulators — the closest field to the seminar room." },
-    consulting: { title: "Management Consulting",      url: "/paths/consulting/",               blurb: "Rent out your structured thinking — the classic graduate route with a marked front door." },
-    risk:       { title: "Risk & Catastrophic Risk",   url: "/paths/risk/",                     blurb: "Reasoning under uncertainty, from tech platforms to the biggest threats of all." },
-    blockchain: { title: "Blockchain & Fintech",       url: "/paths/blockchain-fintech/",       blurb: "Institutions built from scratch — political philosophy with a compiler." },
-    vc:         { title: "Venture Capital",            url: "/paths/venture-capital/",          blurb: "Judging which unlikely-sounding idea is actually right." },
-    startup:    { title: "Entrepreneurship & Startups",url: "/paths/entrepreneurship-startups/",blurb: "Build the thing that doesn't exist yet — nobody asks a founder for their degree." },
-    media:      { title: "Media & Writing",            url: "/paths/media-writing/",            blurb: "Get paid to write clearly about hard things." },
-    cyber:      { title: "Cybersecurity & Recruitment",url: "/paths/cybersecurity-recruitment/",blurb: "Into a technical industry without a technical degree." },
-    business:   { title: "Business, Mentoring & Beyond",url: "/paths/business-mentoring/",      blurb: "Companies run on people who can structure ambiguity — that's you." }
+    ai:         { title: "AI & Data Ethics",           url: "/paths/ai-data-ethics/",           blurb: "Working out what counts as fair or harmful in AI systems." },
+    ethics:     { title: "Ethics Consulting",          url: "/paths/ethics-consulting/",        blurb: "Advising organisations on ethics questions, as a job." },
+    consulting: { title: "Management Consulting",      url: "/paths/consulting/",               blurb: "Business problem-solving in small teams, with a clear graduate route in." },
+    risk:       { title: "Risk & Catastrophic Risk",   url: "/paths/risk/",                     blurb: "Risk teams in tech, and research on large-scale threats." },
+    blockchain: { title: "Blockchain & Fintech",       url: "/paths/blockchain-fintech/",       blurb: "Young companies building financial and governance systems from scratch." },
+    vc:         { title: "Venture Capital",            url: "/paths/venture-capital/",          blurb: "Evaluating early startups for an investment fund." },
+    startup:    { title: "Entrepreneurship & Startups",url: "/paths/entrepreneurship-startups/",blurb: "Starting a company, or joining one early." },
+    media:      { title: "Media & Writing",            url: "/paths/media-writing/",            blurb: "Jobs where the writing is the work." },
+    cyber:      { title: "Cybersecurity & Recruitment",url: "/paths/cybersecurity-recruitment/",blurb: "Finding and judging technical talent." },
+    business:   { title: "Business, Mentoring & Beyond",url: "/paths/business-mentoring/",      blurb: "The ordinary roles most organisations run on." }
   };
   var QUESTIONS = [
     { q: "What could you happily do for three hours straight?",
       a: [
-        { t: "Write something that makes a hard idea feel simple", s: { media: 2, ai: 1 } },
+        { t: "Write, and rewrite, until an idea is clear", s: { media: 2, ai: 1 } },
         { t: "Argue about whether something is right or wrong", s: { ethics: 2, ai: 1 } },
-        { t: "Take a system apart to see how its incentives work", s: { blockchain: 2, risk: 1, vc: 1 } },
-        { t: "Meet new people and figure out what they're good at", s: { cyber: 2, business: 1 } },
-        { t: "Sketch a plan for something that doesn't exist yet", s: { startup: 2, vc: 1 } }
+        { t: "Work out why a system produces the behaviour it does", s: { blockchain: 2, risk: 1, vc: 1 } },
+        { t: "Talk to new people and figure out what they're good at", s: { cyber: 2, business: 1 } },
+        { t: "Plan something new and think about who would use it", s: { startup: 2, vc: 1 } }
       ]},
-    { q: "Pick the headline you'd click first:",
+    { q: "Which headline would you read first?",
       a: [
-        { t: "“Is this AI system actually fair?”", s: { ai: 2 } },
-        { t: "“The company that promised ethics — and got caught”", s: { ethics: 2, consulting: 1 } },
+        { t: "“Is this AI system fair?”", s: { ai: 2 } },
+        { t: "“The company that promised ethics and got caught”", s: { ethics: 2, consulting: 1 } },
         { t: "“Could a blockchain replace a courtroom?”", s: { blockchain: 2 } },
-        { t: "“Inside the fund that bets on ideas everyone laughs at”", s: { vc: 2 } },
-        { t: "“How close did we actually come to catastrophe?”", s: { risk: 2 } },
+        { t: "“How early investors decide which startups to back”", s: { vc: 2 } },
+        { t: "“How close did we come to catastrophe?”", s: { risk: 2 } },
         { t: "“She quit her PhD and started a company”", s: { startup: 2 } }
       ]},
-    { q: "Your ideal first workplace:",
+    { q: "Where would you rather spend your first working year?",
       a: [
-        { t: "A big organisation with structure and a ladder to climb", s: { consulting: 2, ai: 1, cyber: 1 } },
-        { t: "A tiny team where I'd do a bit of everything", s: { startup: 2, blockchain: 1, vc: 1 } },
+        { t: "A big organisation with structure and a ladder", s: { consulting: 2, ai: 1, cyber: 1 } },
+        { t: "A small team where I'd do a bit of everything", s: { startup: 2, blockchain: 1, vc: 1 } },
         { t: "Somewhere between a university and an office", s: { risk: 2, ethics: 1 } },
-        { t: "Anywhere, as long as I'm mostly writing", s: { media: 2 } }
+        { t: "Anywhere, as long as the work is mostly writing", s: { media: 2 } }
       ]},
-    { q: "Be honest about numbers:",
+    { q: "How do you feel about numbers?",
       a: [
         { t: "I'd rather read arguments than spreadsheets", s: { ethics: 1, media: 1, business: 1 } },
-        { t: "I like arguments best when they have numbers in them", s: { consulting: 1, risk: 1, vc: 1 } },
-        { t: "Markets and money mechanics genuinely fascinate me", s: { blockchain: 2, vc: 1 } },
-        { t: "I care about people more than about either", s: { cyber: 1, business: 2 } }
+        { t: "I like arguments that have numbers in them", s: { consulting: 1, risk: 1, vc: 1 } },
+        { t: "I find markets and money mechanics interesting", s: { blockchain: 2, vc: 1 } },
+        { t: "I'm more interested in people than in either", s: { cyber: 1, business: 2 } }
       ]},
-    { q: "Should philosophy be the job, or the edge?",
+    { q: "How central should philosophy be to the work itself?",
       a: [
-        { t: "The job — I want to think about ethics all day", s: { ethics: 2, ai: 1 } },
-        { t: "The edge — sharp thinking applied to something else", s: { consulting: 1, vc: 1, startup: 1, cyber: 1 } },
-        { t: "The megaphone — I want to explain ideas for a living", s: { media: 2 } },
-        { t: "The compass — I just want work that feels meaningful", s: { business: 2, risk: 1 } }
+        { t: "Central. I want to work on ethics all day", s: { ethics: 2, ai: 1 } },
+        { t: "In the background: careful thinking applied to something else", s: { consulting: 1, vc: 1, startup: 1, cyber: 1 } },
+        { t: "I mostly want to write and explain ideas", s: { media: 2 } },
+        { t: "I mostly want work that feels useful", s: { business: 2, risk: 1 } }
       ]}
   ];
 
@@ -96,14 +96,14 @@
     var cards = top.map(function (k, rank) {
       var p = PATHS[k];
       return '<a class="lp-picker-result" href="' + p.url + '">' +
-        '<span class="lp-picker-rank">' + (rank === 0 ? "Best fit" : rank === 1 ? "Also worth a look" : "Dark horse") + "</span>" +
+        '<span class="lp-picker-rank">' + (rank === 0 ? "Best fit" : rank === 1 ? "Worth a look" : "Also consider") + "</span>" +
         '<span class="lp-picker-title">' + esc(p.title) + "</span>" +
         '<span class="lp-picker-blurb">' + esc(p.blurb) + "</span></a>";
     }).join("");
     root.innerHTML =
       '<div class="lp-picker-q">Based on your answers:</div>' +
       '<div class="lp-picker-results">' + cards + "</div>" +
-      '<p class="lp-picker-note">Remember: these guides are just the journeys our community happens to have taken — philosophy opens far more doors than we’ve written up. <a href="/paths/">Browse all the guides</a>, or <button type="button" class="lp-picker-restart">start over</button>.</p>';
+      '<p class="lp-picker-note">These guides cover the paths our community has taken. There are more doors than we’ve written up. <a href="/paths/">Browse all the guides</a>, or <button type="button" class="lp-picker-restart">start over</button>.</p>';
     root.querySelector(".lp-picker-restart").addEventListener("click", function () { picks = []; renderQuestion(0); });
   }
 
