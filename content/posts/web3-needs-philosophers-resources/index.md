@@ -5,6 +5,7 @@ description: "A round-up of useful resources to learn about Web3 and get you sta
 summary: "A round-up of useful resources to learn about Web3 and get you started on your journey"
 substackUrl: "https://letsphi.substack.com/p/web3-needs-philosophers-resources"
 substackAuthors: "Ludovica Adamo"
+aliases: ["/posts/useful-resources-in-the-web3-space/"]
 ---
 
 Hey Phiers,
@@ -33,6 +34,15 @@ And if you missed this month’s career workshop, have a look at Fotis’ slides
 Web3 For Philosophers (1)
 
 1.9MB ∙ PDF file
+
+#### From Federico Ast (Kleros)
+
+Earlier in 2022, Federico Ast — co-founder and CEO of [Kleros](https://kleros.io/), the decentralised justice system using blockchain and game theory for dispute resolution, and speaker at our "Future of Law-Tech" event — shared two preview videos from Kleros' free online course on building in Web3:
+
+- [How to build in Web3: The Blockchain Revolution](https://www.youtube.com/watch?v=kAcZSGIrF-4)
+- [How to build in Web3: Strategy Design](https://www.youtube.com/watch?v=JTKB5DjyOOY)
+
+You can follow [Kleros](https://www.linkedin.com/company/kleros/) for course updates or connect with [Federico on LinkedIn](https://www.linkedin.com/in/federicoast/).
 
 This is everything from us, for now. We hope you’ll find these resources useful and that they’re going to help you with your education and career needs.
 

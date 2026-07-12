@@ -31,18 +31,18 @@ Our first conference: 200+ attendees, 10+ speakers, 5 industry experts on career
 
 ### 2023
 
-- **June — From Philosophy to Content Marketing**, with Alex Yates, PhD
-- **May — Philosophers Working in Decentralised Finance**, with Christina Norgard Rud *(organiser: Konrad Urban)*
-- **April — Operationalising Philosophy for Risk**, with Noam Maoz *(organiser: Ludovica Adamo)*
+- **June — From Philosophy to Content Marketing**, with Alex Yates, PhD — from a doctoral dissertation on Frege's philosophy of logic at St Andrews to freelance and then full-time content marketing
+- **May — Philosophers Working in Decentralised Finance**, with Christina Norgard Rud — Philosophy & Public Policy MSc (LSE), co-founder of [Squid](https://www.squidrouter.com/), a cross-chain liquidity router *(organiser: Konrad Urban)*
+- **April — Operationalising Philosophy for Risk**, with Noam Maoz — MA in Philosophy of Technology (Tel-Aviv), risk prevention specialist in tech at Meta and long-time community member *(organiser: Ludovica Adamo)*
 
 ### 2022
 
-- **November — Web3 Needs Philosophers**, with Fotis Tsiroukis *(organiser: Ludovica Adamo)*
-- **October — From Philosophy to Ethics Consulting**, with Dr Kevin Macnish *(organiser: Ludovica Adamo)*
-- **October — Investing in Norm-Subverting Tech**, with Steven Robinson & Guanlan Mao *(organiser: Konrad Urban)*
-- **August — From Philosophy to Cybersecurity Recruitment**, with Joshua Bucheli *(organiser: Ludovica Adamo)*
-- **July — From Philosophy to AI Ethics**, with Ravit Dotan, PhD *(organiser: Ludovica Adamo)*
-- **June — The Future of Law-Tech**, with Federico Ast *(organiser: Konrad Urban)*
+- **November — Web3 Needs Philosophers**, with Fotis Tsiroukis — PhD candidate in Philosophy of Open Science (Exeter) and KERNEL fellow working in crypto privacy and decentralised science *(organiser: Ludovica Adamo)*
+- **October — From Philosophy to Ethics Consulting**, with Dr Kevin Macnish — digital-ethics consulting senior manager at Sopra Steria, former GCHQ analyst, author of *The Ethics of Surveillance* *(organiser: Ludovica Adamo)*
+- **October — Investing in Norm-Subverting Tech**, with Steven Robinson & Guanlan Mao — Oxford philosophy and PPE graduates leading ARKN Ventures, a blockchain-focused VC firm *(organiser: Konrad Urban)*
+- **August — From Philosophy to Cybersecurity Recruitment**, with Joshua Bucheli — political & legal philosophy MA (Bern), cybersecurity recruiter at Cyberunity and former Let's Phi head of community *(organiser: Ludovica Adamo)*
+- **July — From Philosophy to AI Ethics**, with Ravit Dotan, PhD — UC Berkeley philosophy PhD helping startups and investors build AI-ethics strategies *(organiser: Ludovica Adamo)*
+- **June — The Future of Law-Tech**, with Federico Ast — co-founder and CEO of Kleros, the decentralised justice protocol *(organiser: Konrad Urban)*
 - **April — Ethics for Preventing Global Catastrophe**, with McKenna Fitzgerald *(organiser: Ludovica Adamo)*
 - **January — Public Engagement and Public Writing for Philosophers**, with Joshua Habgood-Coote, PhD *(organiser: Ludovica Adamo)*
 

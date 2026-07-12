@@ -2,6 +2,11 @@
 # The main menu is displayed in the header at the top of the page.
 
 [[main]]
+  name = "Paths"
+  pageRef = "paths"
+  weight = 5
+
+[[main]]
   name = "Stories"
   pageRef = "stories"
   weight = 10
@@ -44,6 +49,11 @@
     icon = "substack"
 
 # -- Footer Menu --
+[[footer]]
+  name = "Paths"
+  pageRef = "paths"
+  weight = 5
+
 [[footer]]
   name = "Stories"
   pageRef = "stories"
